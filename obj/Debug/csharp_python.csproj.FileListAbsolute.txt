@@ -1,0 +1,15 @@
+D:\csharp\csharp_python\csharp_python\bin\Debug\debug.py
+D:\csharp\csharp_python\csharp_python\bin\Debug\csharp_python.exe
+D:\csharp\csharp_python\csharp_python\bin\Debug\csharp_python.pdb
+D:\csharp\csharp_python\csharp_python\bin\Debug\IronPython.dll
+D:\csharp\csharp_python\csharp_python\bin\Debug\Microsoft.Scripting.dll
+D:\csharp\csharp_python\csharp_python\bin\Debug\Microsoft.Dynamic.dll
+D:\csharp\csharp_python\csharp_python\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\csharp\csharp_python\csharp_python\bin\Debug\Microsoft.Dynamic.xml
+D:\csharp\csharp_python\csharp_python\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\csharp\csharp_python\csharp_python\obj\Debug\csharp_python.Form1.resources
+D:\csharp\csharp_python\csharp_python\obj\Debug\csharp_python.csproj.GenerateResource.Cache
+D:\csharp\csharp_python\csharp_python\obj\Debug\csharp_python.exe
+D:\csharp\csharp_python\csharp_python\obj\Debug\csharp_python.pdb
+D:\csharp\csharp_python\csharp_python\bin\Debug\captureImage.py
+D:\csharp\csharp_python\csharp_python\obj\Debug\csharp_python.csprojResolveAssemblyReference.cache
